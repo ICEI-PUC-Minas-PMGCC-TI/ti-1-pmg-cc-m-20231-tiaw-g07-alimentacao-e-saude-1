@@ -9,7 +9,7 @@ Nosso projeto propõe resolver um dos maiores conflitos que afetam diariamente g
 * Arthur Luis Santos Gonçalves
 * Fábio Antônio Caldeira Andrade
 * Nalberth Henrique Vieira Pinto
-* Pedro Vilaça de Oliveira Melo
+
 
 ## Professores responsáveis
 
